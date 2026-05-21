@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Phoenix - طائر الفينيق</string>
+    <string name="books_reference">We rely on this platform and application on the integrative vision presented in the book \"The Phoenix\" and the book \"Did You Try to Dream?\".</string>
+    <string name="btn_book">Book Link</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_send">Send Data to Coach</string>
+    <string name="coach_bio">A human who does not just stop at understanding software, but also seeks to understand those who use it. Combining technical intelligence with the depth of the human soul to build digital solutions with a human touch that bridges numbers and emotions.</string>
+    <string name="coach_subtitle">Full Stack Developer with a Writer Soul</string>
+    <string name="coach_title">Coach Shalee Khalil</string>
+    <string name="ex_1_desc">Dedicating 10 minutes daily in absolute stillness to listen to your heartbeat and identify true current feelings without beautification or justification.</string>
+    <string name="ex_1_title">1. Soul Solitude and Attunement</string>
+    <string name="ex_2_desc">Dividing life into organized seven-year stations to face details head-on, emptying aches into side papers to be executed and freeing the subconscious from them.</string>
+    <string name="ex_2_title">2. Unearthing Roots and Life\'s Chain</string>
+    <string name="ex_3_desc">Summoning the Inner Savior and intervening with your current strong personality to protect old versions trapped in moments of pain, embodying the opponent to release muted words.</string>
+    <string name="ex_3_title">3. Restructuring and Projection</string>
+    <string name="ex_4_desc">Controlling the first hour of your day through mental discipline, reading the Ancient Worthiness List and the Letter of Self-Pride out loud to consolidate the new operating system.</string>
+    <string name="ex_4_title">4. The Sovereign Dawn Protocol</string>
+    <string name="ex_5_desc">Breaking the comfort zone boundaries by committing to physical activity like running to change body chemistry and expel remnants of stress hormones from cells.</string>
+    <string name="ex_5_title">5. Organized Incursion and Physical Sovereignty</string>
+    <string name="ex_6_desc">Sensing real gains with the new neutral awareness, and activating the field observer mindset to manage emotions and understand others\' motives with cold rationality.</string>
+    <string name="ex_6_title">6. Sovereign Gratitude and Emotional Intelligence</string>
+    <string name="philosophy_text">We deeply believe that demolition and building are two complementary processes; where we demolish the False Self shaped by panic and fear, and rebuild the healing True Self, solid in its certainty, on a completely clean ground purified by awareness, order, and work.</string>
+    <string name="tab_about">About Coach</string>
+    <string name="tab_contact">Contact Window</string>
+    <string name="tab_exercises">Exercises</string>
+    <string name="tab_philosophy">Healing Philosophy</string>
+</resources>

@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.phoenix.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\7baac5b79cf9f13738bcd8597ae7915c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.phoenix.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\7baac5b79cf9f13738bcd8597ae7915c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\7baac5b79cf9f13738bcd8597ae7915c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.phoenix.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\7baac5b79cf9f13738bcd8597ae7915c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\7baac5b79cf9f13738bcd8597ae7915c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:6:5-21:19
+20        android:allowBackup="true"
+20-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:7:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\7baac5b79cf9f13738bcd8597ae7915c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/book_cover"
+24-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:8:9-42
+25        android:label="@string/app_name"
+25-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:9:9-41
+26        android:roundIcon="@mipmap/book_cover"
+26-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:10:9-47
+27        android:supportsRtl="true"
+27-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:11:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.Phoenix" >
+29-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:12:9-45
+30        <activity
+30-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:13:9-20:20
+31            android:name="com.phoenix.app.MainActivity"
+31-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:14:13-41
+32            android:exported="true" >
+32-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:15:13-36
+33            <intent-filter>
+33-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:16:13-19:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:17:17-69
+34-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:17:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:18:17-77
+36-->D:\Phoenix-Glassmorphism-App\android-studio-project\app\src\main\AndroidManifest.xml:18:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+42            android:authorities="com.phoenix.app.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\9af27556cb27e970a600906604b37d43\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\df99b40ca4cb2b8b375047207be16ace\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\df99b40ca4cb2b8b375047207be16ace\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Shalee\Downloads\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\caches\9.0.0\transforms\df99b40ca4cb2b8b375047207be16ace\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>

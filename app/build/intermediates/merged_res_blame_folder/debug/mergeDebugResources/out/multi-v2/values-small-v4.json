@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.phoenix.app-mergeDebugResources-26:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shalee\\Downloads\\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\\caches\\9.0.0\\transforms\\026242b39b1f5b9a6840ebc2ededdecd\\transformed\\material-1.9.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

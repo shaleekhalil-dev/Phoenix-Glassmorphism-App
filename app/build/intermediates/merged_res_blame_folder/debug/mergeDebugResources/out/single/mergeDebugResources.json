@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.phoenix.app-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.phoenix.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.phoenix.app-debug-28:/mipmap-xxhdpi_book_cover.png.flat",
+        "source": "com.phoenix.app-main-30:/mipmap-xxhdpi/book_cover.png"
+    },
+    {
+        "merged": "com.phoenix.app-debug-28:/drawable_glass_card_background.xml.flat",
+        "source": "com.phoenix.app-main-30:/drawable/glass_card_background.xml"
+    },
+    {
+        "merged": "com.phoenix.app-debug-28:/mipmap_book_cover.png.flat",
+        "source": "com.phoenix.app-main-30:/mipmap/book_cover.png"
+    },
+    {
+        "merged": "com.phoenix.app-debug-28:/drawable_bg_gradient_start.xml.flat",
+        "source": "com.phoenix.app-main-30:/drawable/bg_gradient_start.xml"
+    }
+]

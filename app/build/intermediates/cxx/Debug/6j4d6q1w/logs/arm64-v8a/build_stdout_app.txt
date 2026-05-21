@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\Phoenix-Glassmorphism-App\android-studio-project\app\.cxx\Debug\6j4d6q1w\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/app.dir/app.cpp.o
+[2/2] Linking CXX shared library D:\Phoenix-Glassmorphism-App\android-studio-project\app\build\intermediates\cxx\Debug\6j4d6q1w\obj\arm64-v8a\libapp.so

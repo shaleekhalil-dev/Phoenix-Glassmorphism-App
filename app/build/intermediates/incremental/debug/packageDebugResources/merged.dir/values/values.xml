@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_sky">#38BDF8</color>
+    <color name="bg_gradient_center">#1E3A8A</color>
+    <color name="bg_gradient_end">#0284C7</color>
+    <color name="bg_gradient_start">#0F172A</color>
+    <color name="black">#FF000000</color>
+    <color name="glass_background">#0DFFFFFF</color>
+    <color name="glass_stroke">#1AFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_main">#F8FAFC</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">طائر الفينيق - The Phoenix</string>
+    <string name="books_reference">نعتمد في هذه المنصة والتطبيق على الرؤية التكاملية المطروحة في كتاب \"طائر الفينيق\" وكتاب \"هل جربت أن تحلم\".</string>
+    <string name="btn_book">رابط الكتاب</string>
+    <string name="btn_profile">الملف الشخصي</string>
+    <string name="btn_send">إرسال البيانات للمدرب</string>
+    <string name="coach_bio">إنسان لا يكتفي بفهم البرمجيات، بل يسعى لفهم من يستخدمها أيضاً. يجمع بين ذكاء التكنولوجيا وعمق النفس البشرية، ليبني حلولاً رقمية بلمسة إنسانية تربط بين عالم الأرقام وعالم المشاعر. يسعى لأنسنة بيئات العمل الرقمية وتطوير رأس المال النفسي.</string>
+    <string name="coach_subtitle">مطور شامل بروح أديب</string>
+    <string name="coach_title">المستشار شعلي خليل</string>
+    <string name="ex_1_desc">تخصيص 10 دقائق يومياً في سكون تام للاستماع إلى ضربات قلبك وتحديد المشاعر الحقيقية الحالية دون تجميل أو تبرير.</string>
+    <string name="ex_1_title">1. خلوة الروح والإنصات</string>
+    <string name="ex_2_desc">تقسيم العمر إلى محطات سباعية منظمة لمواجهة التفاصيل وجهاً لوجه، وتفريغ الأوجاع في أوراق جانبية ليتم إعدامها وتحرير العقل الباطن منها.</string>
+    <string name="ex_2_title">2. نبش الجذور وسلسلة الحياة</string>
+    <string name="ex_3_desc">استحضار المنقذ الداخلي والتدخل بالذات الحالية القوية لحماية النسخ القديمة العالقة في لحظات الألم، وتجسيد الخصم لقول الكلمات المكتومة.</string>
+    <string name="ex_3_title">3. إعادة الهيكلة والإسقاط</string>
+    <string name="ex_4_desc">السيطرة على أول ساعة من اليوم عبر الانضباط العقلي، وقراءة دستور الاستحقاق العريق ورسالة الاعتزاز بالذات بصوت مسموع لترسيخ نظام التشغيل الجديد.</string>
+    <string name="ex_4_title">4. بروتوكول الفجر السيادي</string>
+    <string name="ex_5_desc">كسر حواجز منطقة الراحة عبر الالتزام بالنشاط البدني كالركض لتغيير كيمياء الجسد وطرد بقايا هرمونات التوتر من الخلايا.</string>
+    <string name="ex_5_title">5. الاقتحام المنظم والسيادة البدنية</string>
+    <string name="ex_6_desc">رؤية المكاسب الحقيقية بالوعي الجديد المحايد، وتفعيل عقلية المشاهد الميدانية لإدارة الانفعالات وفهم دوافع الآخرين ببرود عقلاني.</string>
+    <string name="ex_6_title">6. الامتنان السيادي والذكاء العاطفي</string>
+    <string name="philosophy_text">إننا نؤمن بأن الهدم والبناء عمليتان مكملتان لبعضهما البعض؛ حيث نقوم بهدم الذات المزيفة التي صاغها الهلع والخوف، وإعادة بناء الذات الحقيقية المتشافية الصلبة بيقينها على أرضية نظيفة تماماً تم تطهيرها بالوعي والنظام والعمل.</string>
+    <string name="tab_about">عن المدرب</string>
+    <string name="tab_contact">نافذة التواصل</string>
+    <string name="tab_exercises">التدريبات</string>
+    <string name="tab_philosophy">منهجية التشافي</string>
+    <style name="ExerciseCard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">14dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="cardBackgroundColor">#60FFFFFF</item>
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+    <style name="ExerciseText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">22dp</item>
+        <item name="android:textColor">#003049</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="StationCard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="cardBackgroundColor">#60FFFFFF</item>
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+    <style name="StationText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:textColor">#1D3557</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingExtra">6sp</item>
+    </style>
+    <style name="Theme.Phoenix" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">#0077B6</item>
+        <item name="colorPrimaryVariant">#00B4D8</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        
+        
+        <item name="colorSecondary">#48CAE4</item>
+        <item name="colorSecondaryVariant">#90E0EF</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+
+        
+        <item name="elevation">0dp</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Phoenix" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand colors. -->
+        <item name="colorPrimary">#0077B6</item>
+        <item name="colorPrimaryVariant">#00B4D8</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        
+        <!-- Secondary brand colors. -->
+        <item name="colorSecondary">#48CAE4</item>
+        <item name="colorSecondaryVariant">#90E0EF</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+        <!-- ABSOLUTE FLAT WINDOW PROFILE & TRANSPARENCY GUARD -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- Zero-Shadow Build Enforcement -->
+        <item name="elevation">0dp</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

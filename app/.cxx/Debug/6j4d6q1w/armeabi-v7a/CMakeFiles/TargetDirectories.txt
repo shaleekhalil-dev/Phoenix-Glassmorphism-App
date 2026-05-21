@@ -1,0 +1,3 @@
+D:/Phoenix-Glassmorphism-App/android-studio-project/app/.cxx/Debug/6j4d6q1w/armeabi-v7a/CMakeFiles/app.dir
+D:/Phoenix-Glassmorphism-App/android-studio-project/app/.cxx/Debug/6j4d6q1w/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Phoenix-Glassmorphism-App/android-studio-project/app/.cxx/Debug/6j4d6q1w/armeabi-v7a/CMakeFiles/rebuild_cache.dir

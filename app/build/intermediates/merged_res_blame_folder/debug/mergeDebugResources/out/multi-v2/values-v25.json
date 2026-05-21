@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.phoenix.app-mergeDebugResources-26:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shalee\\Downloads\\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\\java-17-openjdk-17.0.19.0.10-1.win.jdk.x86_64\\caches\\9.0.0\\transforms\\56088aaea044f3ce81ca653bd7dc471a\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
